@@ -9,7 +9,7 @@ class Main {
 
  
 
-      vaathi comming
+      vaathi kabaddi
     }
   }
 }
