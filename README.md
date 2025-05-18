@@ -9,7 +9,7 @@ class Main {
 
  
 
-      vaathi kabaddi
+     kore waaaaaaa
     }
   }
 }
