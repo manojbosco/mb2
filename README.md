@@ -7,7 +7,7 @@ class Main {
     while (i <= n) {
       System.out.print(firstTerm + ", ");
 
- suni
+ sunilll
 
       
     }
