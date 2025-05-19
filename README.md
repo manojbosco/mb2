@@ -5,11 +5,7 @@ class Main {
     System.out.println("Fibonacci Series till " + n + " terms:");
 
     while (i <= n) {
-      System.out.print(firstTerm + ", ");
-
- 
-
-      vaathi kabaddi
-    }
+      System.out.print(firstTerm + ", "); valimai
+  }
   }
 }
